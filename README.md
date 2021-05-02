@@ -41,8 +41,6 @@ Here are some images from my Project:
 ![takeexam](https://user-images.githubusercontent.com/67568211/116813318-db5e2880-ab70-11eb-965e-09956df620be.PNG)
 <br>**Result**<br>
 ![results](https://user-images.githubusercontent.com/67568211/116813343-fa5cba80-ab70-11eb-8202-b8b33c87f138.PNG)
-<br>**Report**<br>
-![report](https://user-images.githubusercontent.com/67568211/116813803-51638f00-ab73-11eb-802d-ab93d672fa86.png)
 
 **I hope you like my project :smile:.**<br>
 Have great day :heart: :wave:
