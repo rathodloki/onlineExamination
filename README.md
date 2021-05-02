@@ -35,7 +35,7 @@ Sirno. | Topics
 ![Activity Diagram 0](https://user-images.githubusercontent.com/67568211/116812974-20815b00-ab6f-11eb-89c4-cf6ef46bbeb7.png)
 
 ## Glance Look
-Here some images from Project:<br>
+Here are some images from my Project:<br>
 **HomePage** <br>
 ![home](https://user-images.githubusercontent.com/67568211/116813277-b10c6b00-ab70-11eb-9e76-0ef35bb979ce.PNG)
 **Student Login Page** <br>
