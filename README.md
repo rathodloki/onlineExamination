@@ -43,7 +43,7 @@ Here are some images from my Project:
 ![results](https://user-images.githubusercontent.com/67568211/116813343-fa5cba80-ab70-11eb-8202-b8b33c87f138.PNG)
 
 **I hope you like my project :smile:.**<br>
-Have great day :heart: :wave:
+Have a great day! :heart: :wave:
 
 **__Other Info__**:
 <br>
