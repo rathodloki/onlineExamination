@@ -44,3 +44,8 @@ Here are some images from my Project:
 
 **I hope you like my project :smile:.**<br>
 Have great day :heart: :wave:
+
+**__Other Info__**:
+<br>
+Project Created on : 8 Oct 2018 <br>
+Repo Added on : 8 Sep 2020 
