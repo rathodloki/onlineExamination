@@ -1,5 +1,5 @@
 # OnlineExamination
-Sirno. | Topics
+Sir no. | Topics
 --- | --- 
 1 | [Introduction](https://github.com/rathodloki/onlineExamination#Introduction)
 2 | [Requirements of Analysis](https://github.com/rathodloki/onlineExamination#Requirements-of-Analysis)
