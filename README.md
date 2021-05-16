@@ -28,7 +28,7 @@ Sir no. | Topics
 
 ### Schema Design
 ![databse_schemapng](https://user-images.githubusercontent.com/67568211/116812783-2aef2500-ab6e-11eb-8c36-130ab6b23a85.png)
-<br>**Activity Diagram of login process:**<br>
+<br>**Activity Diagram of Student Journey:**<br>
 ![Activity Diagram 0](https://user-images.githubusercontent.com/67568211/116812974-20815b00-ab6f-11eb-89c4-cf6ef46bbeb7.png)
 
 ## Glance Look
